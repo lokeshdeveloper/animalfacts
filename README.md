@@ -14,7 +14,7 @@ This website is especially for pet lovers.
 1. Click Get Facts button to open popup (Default selection is Dog).
 2. You can type different options like Dog,Horse,Snail and Cat.
 3. Next type how many facts to be generated.
-4. Click generate to genearte facts.
+4. Click generate to generate facts.
 5. Clear button appears next to get facts.
 6. Click clear to clear all facts and then generate again.
 
