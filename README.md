@@ -5,8 +5,8 @@ This webiste is designed with free github public api https://alexwohlbruck.githu
 
 Steps to run this website:
 1. Clone the repository to localhost(root) folder of hosting server.(use apache or nginx)
-2. Use http://localhost/ to open your webiste.
-3. Use http://(yourserverip)/ to open your webiste.
+2. Use http://localhost/ to open your webiste laocally.
+3. Use http://(yourserverip)/ to open your webiste after hosting.
 
 This website is especially for pet lovers.
 
