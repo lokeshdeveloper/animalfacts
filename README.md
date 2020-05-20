@@ -18,6 +18,6 @@ This website is especially for pet lovers.
 5. Clear button appears next to get facts.
 6. Click clear to clear all facts and then generate again.
 
-URL:http://13.233.108.1/lb/
+URL:http://13.233.108.1/animalfacts/
 
 Hosted in amazon lightsail
